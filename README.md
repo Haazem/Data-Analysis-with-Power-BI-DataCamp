@@ -12,6 +12,7 @@
 
 [Project Details](https://github.com/Haazem/Power-BI-Cases-DataCamp/tree/main/Case%20Study:%20Analyzing%20Job%20Market%20Data%20in%20Power%20BI)
 
+[View Report](https://www.novypro.com/project/analyzing-job-market-data-1)
 
 ----
 
@@ -27,6 +28,7 @@ In this Power BI case study, you will be exploring a dataset for a fictitious so
 
 [Project Details](https://github.com/Haazem/Power-BI-Cases-DataCamp/tree/main/Case%20Study:%20HR%20Analytics%20in%20Power%20BI)
 
+[View Report](https://www.novypro.com/project/hr-analytics-1)
 
 ----
 
